@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AgneMi
-- 👀 I’m interested in FRONT-END DEVELOPMENT.
+- 👀 I’m interested in FRONT-END DEVELOPMENT, 3D MODELING, UI/UX.
 - 🌱 I’m currently learning REACT.JS AND THREE.JS.
 
 <!---
